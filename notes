@@ -1,0 +1,10 @@
+separation of concerns- who should be doing this?
+
+
+## Routing
+
+- use it to break up an application/api into sub applications
+-picking the code to execute based on URL and HTTP Method
+-used for managin sub resources(the comments on a blog post)
+
+
